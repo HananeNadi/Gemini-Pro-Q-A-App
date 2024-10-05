@@ -18,15 +18,6 @@ The **Gemini Pro Q&A App** is a web application that leverages the capabilities 
 - **Google Gemini Pro**: The AI model used for generating responses.
 - **python-dotenv**: For managing environment variables securely.
 
-## Requirements
-
-Ensure you have the following installed:
-
-Python 3.x
-Streamlit
-python-dotenv
-google-generativeai
-
 ## Installation
 
 Follow these steps to set up the project locally:
